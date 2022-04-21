@@ -2,7 +2,7 @@
 font-family:Arial;
 }
 body{
-    background: color #24607f;
+    background: color #7f2a24;
     padding: 0%;
     margin: 0;
 
@@ -32,13 +32,14 @@ body{
      font-weight:bold;
      padding: 40px 10px;
      text-decoration: none;
-#menu ul il a:hover{
+     }
+     nav ul li a:hover {
     background-color: #ff5105;
     color: #fff;
  
 }
 .logo, .logo:hover{
-    background: #ff5105 url(../img/logo.pnp);
+    background: #ffbc05 url(../img/logo.pnp);
     background-repeat: no-repeat;
     background-position: center center;
     padding-left: 71px !important;
